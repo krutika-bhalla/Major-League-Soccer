@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "mls",
+			"path": "../../../Desktop/mls-cli/mls"
+		},
+		{
+			"name": "tests",
+			"path": "../../../Desktop/mls-cli/tests"
+		},
+		{
+			"name": "Major-League-Soccer",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
